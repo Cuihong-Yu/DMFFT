@@ -1,0 +1,5 @@
+diffusers==0.16.1
+transformers
+accelerate
+xformers
+torch
